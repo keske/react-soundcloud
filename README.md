@@ -36,3 +36,6 @@ React.render(<ReactSoundcloud url="https://soundcloud.com/icebound/dusty-breaks-
 - `showReposts` _(Boolean)_ - show reposts, default: `false`,
 - `visual` _(Boolean)_ - `true` for background image, default: `true`,
 - `color` _(String)_ - play button color, default: `ff5500`
+
+## TODO
+1. [ ] example page
