@@ -2,6 +2,10 @@
 
 Embed Soundcloud widget.
 
+![https://raw.githubusercontent.com/keske/react-soundcloud/c0ef115f6539120088079793eb45186b45d899af/example/images/visualTrue.png](https://raw.githubusercontent.com/keske/react-soundcloud/c0ef115f6539120088079793eb45186b45d899af/example/images/visualTrue.png)
+
+![https://raw.githubusercontent.com/keske/react-soundcloud/c0ef115f6539120088079793eb45186b45d899af/example/images/visualFalse.png](https://raw.githubusercontent.com/keske/react-soundcloud/c0ef115f6539120088079793eb45186b45d899af/example/images/visualFalse.png)
+
 ## Installation
 
 `npm install react-soundcloud`
