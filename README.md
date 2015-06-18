@@ -8,16 +8,16 @@ Embed Soundcloud widget.
 
 ## Installation
 
-`npm install react-soundcloud-embed`
+`npm install react-soundcloud`
 
 ## Usage
 
 
-`var ReactSoundcloud = require('ReactSoundcloud');`
+`var ReactSoundcloud = require('react-soundcloud-embed');`
 
 or
 
-`import ReactSoundcloud from './ReactSoundcloud';`
+`import ReactSoundcloud from 'react-soundcloud-embed';`
 
 Simple usage:
 
