@@ -8,7 +8,7 @@ Embed Soundcloud widget.
 
 ## Installation
 
-`npm install react-soundcloud`
+`npm install react-soundcloud-embed`
 
 ## Usage
 
