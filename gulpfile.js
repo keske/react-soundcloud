@@ -13,7 +13,6 @@ gulp.task('scripts', function() {
     .pipe(gulp.dest("dist"));
 });
 
-
 gulp.task("default", function () {
   gulp.watch(['src/**/*.js'], ['scripts']);
 

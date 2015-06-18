@@ -5,7 +5,7 @@ export default class ReactSoundcloud extends Component {
   static defaultProps = { 
     width: "100%",
     height: "450px",
-    url: "https%3A//api.soundcloud.com/tracks/210785280",
+    url: "https://soundcloud.com/icebound/dusty-breaks-at-the-bottom-of-the-random-crates",
     autoPlay: false,
     hideRelated: false,
     showComments: true,
