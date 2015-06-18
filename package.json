@@ -1,0 +1,42 @@
+{
+  "name": "react-soundcloud",
+  "version": "1.0.0",
+  "description": "Soundcloud component",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "soundcloud"
+  ],
+  "author": "Andrey Keske <hello@andreykeske.com> (http://github.com/keske)",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/keske/react-soundcloud",
+  "devDependencies": {
+    "babel-core": "^5.4.7",
+    "babel-eslint": "^3.1.9",
+    "babel-loader": "^5.1.2",
+    "deap": "^1.0.0",
+    "eslint-plugin-react": "^2.3.0",
+    "react-hot-loader": "^1.2.7",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "react": "^0.13.0"
+  }
+}
