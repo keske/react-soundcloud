@@ -38,4 +38,4 @@ React.render(<ReactSoundcloud url="https://soundcloud.com/icebound/dusty-breaks-
 - `color` _(String)_ - play button color, default: `ff5500`
 
 ## TODO
-1. [ ] example page
+1. [ ] Example page
