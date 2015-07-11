@@ -1,7 +1,8 @@
 {
   "name": "react-soundcloud-embed",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Soundcloud component",
+   "main": "dist/scrollEffects.min.js",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src",
